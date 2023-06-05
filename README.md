@@ -1,10 +1,10 @@
-# UIKit Playground
+# UIKit Playground ⚽️
 
 A ready to use iPadOS Swift Playground app template, where the user will intend to use UIKit instead of SwiftUI. This allows the user to build apps in UIKit on iPad, while still utilizing the constant refresh ability of the Playgrounds canvas. This template includes a simple RootViewController with the view's background property set to red, and SwiftUI type called RootView that hosts the RootViewController.
 
 <hr>
 
-## How to:
+## How to 💡:
 
 1. Download this code as a zip file via the green "Code" button above.
 2. Go to the Files app & move the "UIKit Playground.swiftpm" file from Downloads, to the Swift Playgrounds shared iCloud folder.
